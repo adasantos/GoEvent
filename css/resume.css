@@ -145,3 +145,8 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+.solid {
+  border-style: solid !important;
+  color: white !important ;
+}
